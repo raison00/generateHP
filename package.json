@@ -1,0 +1,25 @@
+{
+  "name": "create-homepage",
+  "version": "1.0.0",
+  "description": "creating homepage template",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-prettify": "^0.4.0",
+    "grunt-spell": "^1.0.0",
+    "image-size": "^0.5.0",
+    "xlsx": "^0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcomce/createHP.git"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "Sharvil Naik",
+  "homepage": "https://github.com/mcomce/createHP#readme"
+}
